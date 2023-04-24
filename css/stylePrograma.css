@@ -4,3 +4,11 @@
 .botonesDespliegue>button {
     background-color: #193768;
 }
+.iconos{
+    width: 25px;
+    height: 25px;
+}
+
+.negritas{
+    font-weight: bolder;
+}
